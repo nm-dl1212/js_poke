@@ -38,7 +38,7 @@ function App() {
   return (
     <div className="App">
       {loading ? (
-        <h1>ロード中</h1>
+        <h1>Now Loading...</h1>
       ) : (
         <>
           <Navbar></Navbar>
