@@ -3,7 +3,7 @@ import './Navbar.css'
 
 const Navbar = () => {
     return (
-        <nav>Navbar</nav>
+        <nav>ここにNavbarを表示</nav>
     )
 }
 
