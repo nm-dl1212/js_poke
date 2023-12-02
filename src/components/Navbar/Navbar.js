@@ -3,7 +3,7 @@ import './Navbar.css'
 
 const Navbar = () => {
     return (
-        <nav>ここにNavbarを表示</nav>
+        <nav>ポケモンのタイトル</nav>
     )
 }
 
