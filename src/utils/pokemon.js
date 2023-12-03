@@ -1,3 +1,4 @@
+//ポケモンをまとめて取得する
 export const getAllPokemon = (url) => {
     return new Promise((resolve, reject) => {
         fetch(url)
@@ -6,7 +7,7 @@ export const getAllPokemon = (url) => {
     })
 }
 
-
+//個々のポケモンのデータを取得する
 export const getPokemon = (url) => {
     return new Promise((resolve, reject) => {
         fetch(url)
