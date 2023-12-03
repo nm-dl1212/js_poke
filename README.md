@@ -29,4 +29,8 @@ https://www.udemy.com/course/react-3project-app-udemy/
 - (他の開発者)git pull origin mainでリモートの変更を拾う
 
 
+# メモ
+他の人が編集した場合.
+どうなる？
+
 ***
